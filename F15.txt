@@ -1,0 +1,13 @@
+
+" zip.vim version v28
+gjrpojrjgojgororrrroooooooooooooooooooooooooooooooooooooooovr
+" Browsing zipfile /c/Users/Jignesh/First-Repo/F14.war
+" Select a file with cursor and press ENTER
+
+[/c/Users/Jignesh/First-Repo/F14.war]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+zipinfo:  cannot find zipfile directory in one of /c/Users/Jignesh/First-Repo/F14.war or
+          /c/Users/Jignesh/First-Repo/F14.war.zip, and cannot find /c/Users/Jignesh/First-Repo/F14.war.ZIP, period.
